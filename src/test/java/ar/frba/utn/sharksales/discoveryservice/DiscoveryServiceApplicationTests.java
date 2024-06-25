@@ -1,4 +1,4 @@
-package org.example.discoveryservice;
+package ar.frba.utn.sharksales.discoveryservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
